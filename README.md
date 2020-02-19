@@ -1,6 +1,4 @@
 
-# Test
-
 ``` r
 dur_hablo_stressed<-.405
 dur_hablo_unstressed<-.219
@@ -12,7 +10,7 @@ f0_o_stressed<-110.34620729227878
 f0_o_unstressed<- 106.77174064609862
 ```
 
-# The difference in ms between “hablo” and “habló”
+The difference in ms between “hablo” and “habló”
 
 ``` r
 dur_hablo_stressed - dur_hablo_unstressed
